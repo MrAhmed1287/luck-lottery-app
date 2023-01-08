@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 # lotttery-app
 # lottery-
 # lottery-
+# luck-lottery-app
